@@ -1,0 +1,17 @@
+img{
+	margin:10px 10px;
+	position:absolute;
+	z-index:5;
+}
+div{
+	margin:50px 50px;
+	border:solid 1px green;
+	padding: 10px 10px;
+	width:278px;
+	height:203px;
+	position:absolute;
+	z-index:10;
+	background:#fff;
+	font:12px Tahoma;
+	
+}

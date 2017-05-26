@@ -1,0 +1,41 @@
+#title{
+	text-transform:capitalize;
+	font:40px Arial;
+}
+legend{
+	text-transform:capitalize;
+	font:bold 20px Arial;
+	color:#00008e;
+}
+legend span{
+	text-decoration:underline;
+}
+fieldset{
+	
+	border:dotted #e3f2f6;
+	
+}
+label{
+	font:bold 25px Tahoma;
+	width:400px;
+	float:left;
+}
+#f1{
+	text-transform:capitalize;
+}
+input{
+	height:30px;
+	width:500px;
+	background:#e3f2f7;
+	border-right:2px solid blue;
+	border-bottom:2px solid blue;
+	border-left:2px solid black;
+	border-top:2px solid black;
+}
+input[name="sign"]{
+	background:#add8e6;
+	width:100px;
+	font:bold 20px Arial;
+	
+	color:#1038ad;
+}
